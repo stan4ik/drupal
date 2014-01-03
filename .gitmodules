@@ -1,0 +1,6 @@
+[submodule "sites/all/modules/examples"]
+	path = sites/all/modules/examples
+	url = git://git.drupal.org/project/examples.git
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = git://git.drupal.org/project/admin_menu.git
